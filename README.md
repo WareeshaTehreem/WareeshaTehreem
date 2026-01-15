@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740&q=80" alt="Alt text" width="450" height="450"/>
+
 
 <!-- Header Banner -->
 <p align="center">
