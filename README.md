@@ -1,16 +1,66 @@
-## Hi there 👋
+<p align="center">
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740&q=80" alt="Alt text" width="450" height="450"/>
 
-<!--
-**WareeshaTehreem/WareeshaTehreem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Banner -->
+<p align="center">
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Wareesha 👋</h1>
+
+<p align="center">
+  <strong>Electrical Engineering Student | UET Peshawar | 3rd Semester</strong>
+</p>
+
+---
+
+## 🌟 About Me  
+I'm an Electrical Engineering student at the University of Engineering and Technology, Peshawar.  
+I'm currently in my 3rd semester and learning new tools and technologies to build a strong foundation in engineering and tech.
+
+---
+
+## 🛠 Skills  
+### **Technical Tools**
+<p>
+  <img src="https://img.shields.io/badge/MS%20Word-D4CFC5?style=for-the-badge&logo=microsoft-word&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/MS%20Excel-C8D5B9?style=for-the-badge&logo=microsoft-excel&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/VS%20Code-EAEAEA?style=for-the-badge&logo=visual-studio-code&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/AutoCAD-F1E3D3?style=for-the-badge&logo=autodesk&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Canva-F4EFEA?style=for-the-badge&logo=canva&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/HTML-F9F6F1?style=for-the-badge&logo=html5&logoColor=4A4A4A" />
+</p>
+
+### **Engineering Interests**
+- Electrical systems  
+- Circuits  
+- AI basics  
+- Programming fundamentals  
+
+---
+
+## 📚 Currently Learning  
+<p>
+  <img src="https://img.shields.io/badge/Python-E8E2DB?style=for-the-badge&logo=python&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Jupyter-F4EFEA?style=for-the-badge&logo=jupyter&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Git-F5EDE3?style=for-the-badge&logo=git&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/GitHub-EBE4DD?style=for-the-badge&logo=github&logoColor=4A4A4A" />
+</p>
+
+---
+
+## 💡 About My Work  
+- I like keeping things clean and easy to understand.  
+- I enjoy combining creativity with engineering.  
+- I'm slowly building projects to grow my portfolio.
+
+---
+
+
+</p>
+
+---
+
+<p align="center">🤍 Thanks for visiting my profile</p>
+
+�
